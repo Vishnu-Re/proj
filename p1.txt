@@ -1,0 +1,4 @@
+name;
+place;
+age;
+ctc;:wq
